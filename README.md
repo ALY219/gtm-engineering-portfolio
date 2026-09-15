@@ -11,7 +11,6 @@
 *A GTM Engineer's portfolio demonstrating production outbound infrastructure, CRM automation, enrichment pipelines, and data-driven RevOps — built with an AI engineering edge that most GTM folks don't have.*
 
 [📊 View Metrics Model](./gtm_metrics_model.md) •
-[🌐 GrowthFlow AI](https://growthflowai.site) •
 [💼 LinkedIn](https://linkedin.com/in/aaliyan-tariq) •
 [📧 Email](mailto:aaliyantariq.af@gmail.com)
 
