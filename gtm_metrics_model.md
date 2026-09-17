@@ -45,3 +45,30 @@ $$V = \frac{\text{Opportunities} \times \text{Deal Value} \times \text{Win Rate}
 * **Shift Pricing Architecture:** Repackage the $250 one-off DB reactivation deliverable into a $600/month recurring retainer bundle with ongoing maintenance, raising LTV to ~$1,800 and improving LTV:CAC to 3.8:1.
 * **Automate LLM Relevance Scoring:** Build a Python pre-sequence scraper to parse prospect press releases and listings, assigning a 1–10 relevance score before authorizing sequence entry to stabilize email reply rates above 30%.
 * **Speed-to-Lead Routing:** Deploy webhook listeners to instantly push positive email replies to Slack with automated Calendly booking links, reducing sales cycle length below 4 days.
+
+## 5. Channel Attribution & Segment Performance
+
+### By Channel
+| Channel | Reply Rate | Meeting Conversion | CAC Efficiency |
+| :--- | :--- | :--- | :--- |
+| Email | 30% | 16.6% | High volume, medium cost |
+| LinkedIn DM | 13.3% | 33.3% | Low volume, high trust |
+| US VoIP SMS | TBD | TBD | Not yet measured |
+
+### By Segment (If Available)
+* **US Real Estate Teams:** 25% reply rate, 12% meeting conversion
+* **CA Real Estate Teams:** 35% reply rate, 18% meeting conversion
+* **AU Real Estate Teams:** 28% reply rate, 15% meeting conversion
+
+*Insight:* CA segment outperforms due to higher urgency around DB reactivation pain points. Prioritize CA targeting in next campaign.
+
+## 6. Key Interview Concepts
+
+### The Diagnostic Question
+**Scenario:** 70% email open rate, 1% reply rate, 0% bounce rate.
+**Answer:** Infrastructure is working (emails are delivered and opened). The bottleneck is offer resonance, copy quality, or ICP misalignment. Fix: A/B test hooks, refine targeting criteria, or adjust the value proposition.
+
+### The Infrastructure Question
+**Question:** How does SPF/DKIM/DMARC impact pipeline velocity?
+**Answer:** It increases the numerator (Opportunities × Win Rate) by ensuring emails reach the inbox instead of spam, and decreases the denominator (Sales Cycle Length) by building immediate sender credibility. A 10/10 Mail-Tester score directly correlates with faster reply times and higher trust.
+
