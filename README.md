@@ -66,8 +66,8 @@ A complete RevOps metrics framework mapping a real 5-day multi-channel campaign 
 *This repository is a living portfolio. Each deliverable ships as a committed artifact.*
 
 - [x] **Day 41** — RevOps metrics framework & funnel analysis [`→`](./gtm_metrics_model.md)
-- [ ] **Day 42** — HubSpot API integration (Contacts, lifecycle stages, webhooks)
-- [ ] **Day 43** — Custom enrichment pipeline ("mini-Clay") with LLM scoring
+- [x] **Day 42** — HubSpot API integration (Contacts, lifecycle stages, webhooks)
+- [x] **Day 43** — Custom enrichment pipeline ("mini-Clay") with LLM scoring
 - [ ] **Day 44** — Attribution dashboard (Streamlit + SQL)
 - [ ] **Day 45** — Deliverability playbook & pre-send validation script
 - [ ] **Day 46** — AI personalization engine with relevance scoring
