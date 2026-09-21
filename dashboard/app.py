@@ -1,7 +1,21 @@
+"""
+Day 44 — GrowthFlow AI: Outbound Attribution Dashboard
+
+A live Streamlit dashboard tracking:
+- Lead enrichment funnel (Raw → Enriched → Hot → CRM)
+- ICP score distribution
+- Token usage & unit economics
+- AI reasoning audit feed
+
+Deployment fix: Uses Path(__file__).parent to anchor CSV path,
+making it CWD-independent (works on local terminal AND Streamlit Cloud).
+"""
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+from pathlib import Path
 
 # ─── Page Config ───────────────────────────────────────────────
 st.set_page_config(page_title="GrowthFlow GTM Dashboard", layout="wide", page_icon="📊")
@@ -9,8 +23,11 @@ st.set_page_config(page_title="GrowthFlow GTM Dashboard", layout="wide", page_ic
 # ─── Load Data ─────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    df = pd.read_csv("enriched_leads.csv")
-    # Calculate paid-equivalent cost (Gemini 2.5 Flash pricing)
+    # Anchor path to this file's directory (fixes Streamlit Cloud CWD issue)
+    csv_path = Path(__file__).parent / "enriched_leads.csv"
+    df = pd.read_csv(csv_path)
+    
+    # Calculate paid-equivalent cost (Gemini 2.5 Flash pricing: $0.30/1M in, $2.50/1M out)
     df['cost_usd'] = (df['input_tokens'] / 1_000_000 * 0.30) + (df['output_tokens'] / 1_000_000 * 2.50)
     return df
 
