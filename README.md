@@ -1,5 +1,12 @@
 # 🎯 GTM Engineering & RevOps Portfolio
+<h1 align="center">🚀 GTM Engineering Portfolio: AI-Native Outbound Engine</h1>
 
+<p align="center">
+  <a href="https://gtm-engineering-portfolio.streamlit.app"><img src="https://img.shields.io/badge/📊_LIVE_DASHBOARD-Streamlit-FF4B4B?style=for-the-badge"/></a>
+  <a href="https://silicon-patella-c8d.notion.site/GTM-Engineering-Portfolio-AI-Native-Outbound-Engine-3e90bb7ab42c8038bcfdc5254021a211"><img src="https://img.shields.io/badge/📄_FULL_CASE_STUDY-Notion-000000?style=for-the-badge"/></a>
+</p>
+
+> **About this repo:** I engineered a 6-part Python micro-SaaS stack that replaces expensive outbound tools with custom AI pipelines, Pydantic hallucination guardrails, and SQLite state machines. Read the full architectural breakdown in the Notion Case Study above.
 <div align="center">
 
 [![Status](https://img.shields.io/badge/Status-Actively%20Shipping-brightgreen)]()
@@ -68,11 +75,11 @@ A complete RevOps metrics framework mapping a real 5-day multi-channel campaign 
 - [x] **Day 41** — RevOps metrics framework & funnel analysis [`→`](./gtm_metrics_model.md)
 - [x] **Day 42** — HubSpot API integration (Contacts, lifecycle stages, webhooks)
 - [x] **Day 43** — Custom enrichment pipeline ("mini-Clay") with LLM scoring
-- [ ] **Day 44** — Attribution dashboard (Streamlit + SQL)
-- [ ] **Day 45** — Deliverability playbook & pre-send validation script
-- [ ] **Day 46** — AI personalization engine with relevance scoring
-- [ ] **Day 47** — Multi-channel sequence orchestration (n8n)
-- [ ] **Day 48** — SQL analytics for RevOps (conversion, velocity, segment analysis)
+- [x] **Day 44** — Attribution dashboard (Streamlit + SQL)
+- [x] **Day 45** — Deliverability playbook & pre-send validation script
+- [x] **Day 46** — AI Personalization Engine with Pydantic guardrails & fault tolerance
+- [x] **Day 47** — Multi-channel sequence orchestration (n8n)
+- [x] **Day 48** — SQL Analytics & ROI tracking (The "CFO Query")
 - [ ] **Day 49** — GrowthFlow AI case study + Loom walkthrough
 - [ ] **Day 50** — Portfolio v2 + Resume v2 + 20-company target list
 
