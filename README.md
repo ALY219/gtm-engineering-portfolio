@@ -181,6 +181,6 @@ If you're a founder, RevOps leader, or hiring manager who values **proof of work
 
 **"The best GTM engineers don't just configure tools — they build the systems that make tools unnecessary."**
 
-*Last updated: Day 41 — Metrics model shipped. Day 42 (HubSpot integration) in progress.*
+
 
 </div>
