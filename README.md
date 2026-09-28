@@ -80,7 +80,7 @@ A complete RevOps metrics framework mapping a real 5-day multi-channel campaign 
 - [x] **Day 46** — AI Personalization Engine with Pydantic guardrails & fault tolerance
 - [x] **Day 47** — Multi-channel sequence orchestration (n8n)
 - [x] **Day 48** — SQL Analytics & ROI tracking (The "CFO Query")
-- [ ] **Day 49** — GrowthFlow AI case study + Loom walkthrough
+- [x] **Day 49** — GrowthFlow AI case study + Notion walkthrough
 - [ ] **Day 50** — Portfolio v2 + Resume v2 + 20-company target list
 
 ---
