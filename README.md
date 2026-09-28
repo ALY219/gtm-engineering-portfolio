@@ -1,5 +1,5 @@
-# 🎯 GTM Engineering & RevOps Portfolio
-<h1 align="center">🚀 GTM Engineering Portfolio: AI-Native Outbound Engine</h1>
+# GTM Engineering & RevOps Portfolio
+
 
 <p align="center">
   <a href="https://gtm-engineering-portfolio.streamlit.app"><img src="https://img.shields.io/badge/📊_LIVE_DASHBOARD-Streamlit-FF4B4B?style=for-the-badge"/></a>
