@@ -25,7 +25,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm Aaliyan Tariq — a **product-minded GTM Engineer** who bridges the gap between sales, marketing, and technical automation. Unlike traditional RevOps practitioners who configure tools, I **build** the underlying systems: enrichment pipelines, LLM-powered personalization engines, deliverability infrastructure, and attribution dashboards.
 
@@ -33,7 +33,7 @@ I'm Aaliyan Tariq — a **product-minded GTM Engineer** who bridges the gap betw
 
 ---
 
-## ⚡ Why I'm Different from Other GTM Engineers
+##  Why I'm Different from Other GTM Engineers
 
 | Most GTM Engineers | What I Bring |
 |---|---|
@@ -46,9 +46,9 @@ I'm Aaliyan Tariq — a **product-minded GTM Engineer** who bridges the gap betw
 
 ---
 
-## 📈 Featured Work
+##  Featured Work
 
-### 🏆 [GrowthFlow AI Outbound Funnel & Metrics Model](./gtm_metrics_model.md)
+###  [GrowthFlow AI Outbound Funnel & Metrics Model](./gtm_metrics_model.md)
 
 A complete RevOps metrics framework mapping a real 5-day multi-channel campaign against US/CA/AU real estate teams.
 
@@ -68,7 +68,7 @@ A complete RevOps metrics framework mapping a real 5-day multi-channel campaign 
 
 ---
 
-## 🚧 Currently Building (Days 41–50)
+##  Currently Building (Days 41–50)
 
 *This repository is a living portfolio. Each deliverable ships as a committed artifact.*
 
@@ -85,7 +85,7 @@ A complete RevOps metrics framework mapping a real 5-day multi-channel campaign 
 
 ---
 
-## 💼 Case Study Preview: GrowthFlow AI
+##  Case Study Preview: GrowthFlow AI
 
 **Problem:** Solo founder scaling B2B outreach to US/CA/AU real estate teams without a sales team.
 
@@ -107,7 +107,7 @@ A complete RevOps metrics framework mapping a real 5-day multi-channel campaign 
 
 ---
 
-## 🛠️ GTM Stack
+##  GTM Stack
 
 ### Core Tools
 <p>
@@ -140,7 +140,7 @@ A complete RevOps metrics framework mapping a real 5-day multi-channel campaign 
 
 ---
 
-## 🧠 Philosophy: RevOps as Engineering
+##  Philosophy: RevOps as Engineering
 
 I treat revenue operations the way senior engineers treat production systems:
 
@@ -152,7 +152,7 @@ I treat revenue operations the way senior engineers treat production systems:
 
 ---
 
-## 🎯 Target Roles
+##  Target Roles
 
 I'm seeking **GTM Engineer / RevOps Engineer / Growth Engineer** roles where I can:
 
@@ -165,7 +165,7 @@ I'm seeking **GTM Engineer / RevOps Engineer / Growth Engineer** roles where I c
 
 ---
 
-## 📬 Let's Talk
+##  Let's Talk
 
 If you're a founder, RevOps leader, or hiring manager who values **proof of work over pedigree**, I'd love to connect.
 
